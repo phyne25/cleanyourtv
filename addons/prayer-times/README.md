@@ -54,3 +54,4 @@ shown in the launcher's dock.
 ## Maintainer
 
 [@majnioui](https://github.com/majnioui)
+Trigger Prayer Times add-on build
